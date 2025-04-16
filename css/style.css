@@ -1,0 +1,18 @@
+.title {
+    color: red;
+
+}
+
+.test {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    text-align: center;
+}
+
+.part2 a {
+    text-decoration: none;
+    font-style: oblique;
+    color: #CE1F56
+}
